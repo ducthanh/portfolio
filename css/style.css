@@ -1,0 +1,40 @@
+.site-wrapper {
+    display: block;
+    width: 100%;
+    border: solid;
+}
+
+#quote {
+  color: #4267b2;
+  padding-top: 15px;
+  font: Proxima Nova,helvetica neue,helvetica,arial,sans-serif;
+}
+.img-center {
+  margin: 0 auto;
+}
+
+h4, h3 {
+  color: white;
+  padding-top: 5px;
+}
+
+.nav_links {
+  color: #365899;
+}
+
+.social {
+  padding-top: 50px;
+  border-color: black;
+  margin:29px;
+}
+
+p {
+  padding: 45px;
+  color: white;
+}
+
+.img-embed {
+  margin: 30px 100px 25px 150px;
+  max-height: 120px;
+  border: true;
+}
